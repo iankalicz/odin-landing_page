@@ -1,0 +1,96 @@
+
+
+/* Header of the hero */
+
+#first {
+    width: max-content;
+    height: 500px;
+    background-color: #1F2937;
+    padding: 0 200px;
+}
+
+#hero1 {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 0 30px;
+}
+
+#links {
+    font-size: 18px;
+    color: #e5e7eb;
+    gap: 30px;
+    display: inline-flex;
+}
+
+#logo {
+    font-size: 24px;
+    color: #f9faf8;
+    display: inline-flex;
+}
+
+/* Second section of the hero */
+
+#hero2 {
+    color: #f9faf8;
+    display: flex;
+    height: max-content;
+    gap: 20px;
+}
+
+#maintext {
+    width: 60%;
+}
+
+#photo {
+    display: inline-block;
+    background-color: #f9faf8;
+    width: 110%;
+    height: 250px;
+    text-justify: center;
+    text-align: center;
+}
+
+#maintext h1 {
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+#maintext button {
+    background-color: #3882f6;
+    color: #f9faf8;
+}    
+
+
+
+
+#third h1 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: center;
+}
+
+#third p {
+    display: inline-flex;
+}
+
+#fourth {
+    background-color: #e5e7eb;
+    display: flex;
+}
+
+#quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937
+}
+    
+#action {
+    background-color: #3882f6;
+    color: #f9faf8;
+}
+
+#action button {
+    background-color: #3882f6;
+    color: inherit;
+}
